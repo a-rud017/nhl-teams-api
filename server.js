@@ -6,6 +6,7 @@ const PORT = process.env.PORT || 3000
 app.use(cors())
 
 const teams = {
+    //Atlantic Division
     'red wings': {
         'name': 'Detroit Red Wings',
         'location': 'Detroit, MI',
@@ -50,10 +51,59 @@ const teams = {
     },
     'canadiens': {
         'name': 'Montreal Canadiens',
-        'location': 'Montreal, QB',
+        'location': 'Montreal, QC',
         'division': 'Atlantic Division',
         'arenaName': 'Bell Centre'
     },
+        //Metropolitan Division
+        'hurricanes': {
+            'name': 'Carolina Hurricanes',
+            'location': 'Raleigh, NC',
+            'division': 'Metropolitan Division',
+            'arenaName': 'PNC Arena'
+        },
+        'blue jackets': {
+            'name': 'Columbus Blue Jackets',
+            'location': 'Columbus, OH',
+            'division': 'Metropolitan Division',
+            'arenaName': 'Nationwide Arena'
+        },
+        'devils': {
+            'name': 'New Jersey Devils',
+            'location': 'Newark, NJ',
+            'division': 'Metropolitan Division',
+            'arenaName': 'Prudential Center'
+        },
+        'islanders': {
+            'name': 'New York Islanders',
+            'location': 'Elmont, NY',
+            'division': 'Metropolitan Division',
+            'arenaName': 'UBS Arena'
+        },
+        'rangers': {
+            'name': 'New York Rangers',
+            'location': 'New York City, NY',
+            'division': 'Metropolitan Division',
+            'arenaName': 'Madison Square Garden'
+        },
+        'flyers': {
+            'name': 'Philadelphia Flyers',
+            'location': 'Philadelphia, PA',
+            'division': 'Metropolitan Division',
+            'arenaName': 'Wells Fargo Center'
+        },
+        'penguins': {
+            'name': 'Pittsburgh Penguins',
+            'location': 'Pittsburgh, PA',
+            'division': 'Metropolitan Division',
+            'arenaName': 'PPG Paints Arena'
+        },
+        'capitals': {
+            'name': 'Washington Capitals',
+            'location': 'Washington, D.C.',
+            'division': 'Metropolitan Division',
+            'arenaName': 'Capital One Arena'
+        },
     'unknown': {
         'name': 'unknown',
         'location': 'unknown',
