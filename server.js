@@ -55,55 +55,104 @@ const teams = {
         'division': 'Atlantic Division',
         'arenaName': 'Bell Centre'
     },
-        //Metropolitan Division
-        'hurricanes': {
-            'name': 'Carolina Hurricanes',
-            'location': 'Raleigh, NC',
-            'division': 'Metropolitan Division',
-            'arenaName': 'PNC Arena'
-        },
-        'blue jackets': {
-            'name': 'Columbus Blue Jackets',
-            'location': 'Columbus, OH',
-            'division': 'Metropolitan Division',
-            'arenaName': 'Nationwide Arena'
-        },
-        'devils': {
-            'name': 'New Jersey Devils',
-            'location': 'Newark, NJ',
-            'division': 'Metropolitan Division',
-            'arenaName': 'Prudential Center'
-        },
-        'islanders': {
-            'name': 'New York Islanders',
-            'location': 'Elmont, NY',
-            'division': 'Metropolitan Division',
-            'arenaName': 'UBS Arena'
-        },
-        'rangers': {
-            'name': 'New York Rangers',
-            'location': 'New York City, NY',
-            'division': 'Metropolitan Division',
-            'arenaName': 'Madison Square Garden'
-        },
-        'flyers': {
-            'name': 'Philadelphia Flyers',
-            'location': 'Philadelphia, PA',
-            'division': 'Metropolitan Division',
-            'arenaName': 'Wells Fargo Center'
-        },
-        'penguins': {
-            'name': 'Pittsburgh Penguins',
-            'location': 'Pittsburgh, PA',
-            'division': 'Metropolitan Division',
-            'arenaName': 'PPG Paints Arena'
-        },
-        'capitals': {
-            'name': 'Washington Capitals',
-            'location': 'Washington, D.C.',
-            'division': 'Metropolitan Division',
-            'arenaName': 'Capital One Arena'
-        },
+    //Metropolitan Division
+    'hurricanes': {
+        'name': 'Carolina Hurricanes',
+        'location': 'Raleigh, NC',
+        'division': 'Metropolitan Division',
+        'arenaName': 'PNC Arena'
+    },
+    'blue jackets': {
+        'name': 'Columbus Blue Jackets',
+        'location': 'Columbus, OH',
+        'division': 'Metropolitan Division',
+        'arenaName': 'Nationwide Arena'
+    },
+    'devils': {
+        'name': 'New Jersey Devils',
+        'location': 'Newark, NJ',
+        'division': 'Metropolitan Division',
+        'arenaName': 'Prudential Center'
+    },
+    'islanders': {
+        'name': 'New York Islanders',
+        'location': 'Elmont, NY',
+        'division': 'Metropolitan Division',
+        'arenaName': 'UBS Arena'
+    },
+    'rangers': {
+        'name': 'New York Rangers',
+        'location': 'New York City, NY',
+        'division': 'Metropolitan Division',
+        'arenaName': 'Madison Square Garden'
+    },
+    'flyers': {
+        'name': 'Philadelphia Flyers',
+        'location': 'Philadelphia, PA',
+        'division': 'Metropolitan Division',
+        'arenaName': 'Wells Fargo Center'
+    },
+    'penguins': {
+        'name': 'Pittsburgh Penguins',
+        'location': 'Pittsburgh, PA',
+        'division': 'Metropolitan Division',
+        'arenaName': 'PPG Paints Arena'
+    },
+    'capitals': {
+        'name': 'Washington Capitals',
+        'location': 'Washington, D.C.',
+        'division': 'Metropolitan Division',
+        'arenaName': 'Capital One Arena'
+    },
+    //Central Division
+    'coyotes': {
+        'name': 'Arizona Coyotes',
+        'location': 'Tempe, AZ',
+        'division': 'Central Division',
+        'arenaName': 'Mullett Arena'
+    },
+    'blackhawks': {
+        'name': 'Chicago Blackhawks',
+        'location': 'Chicago, IL',
+        'division': 'Central Division',
+        'arenaName': 'United Center'
+    },
+    'avalance': {
+        'name': 'Colorado Avalanche',
+        'location': 'Denver, CO',
+        'division': 'Central Division',
+        'arenaName': 'Ball Arena'
+    },
+    'stars': {
+        'name': 'Dallas Stars',
+        'location': 'Dallas, TX',
+        'division': 'Central Division',
+        'arenaName': 'American Airlines Center'
+    },
+    'wild': {
+        'name': 'Minnesota Wild',
+        'location': 'Saint Paul, MN',
+        'division': 'Central Division',
+        'arenaName': 'Xcel Energy Center'
+    },
+    'predators': {
+        'name': 'Nashville Predators',
+        'location': 'Nashville, TN',
+        'division': 'Central Division',
+        'arenaName': 'Bridgestone Arena'
+    },
+    'blues': {
+        'name': 'St. Louis Blues',
+        'location': 'St. Louis, MO',
+        'division': 'Central Division',
+        'arenaName': 'Enterprise Center'
+    },
+    'jets': {
+        'name': 'Winnipeg Jets',
+        'location': 'Winnipeg, MB',
+        'division': 'Central Division',
+        'arenaName': 'Canada Life Centre'
+    },
     'unknown': {
         'name': 'unknown',
         'location': 'unknown',
