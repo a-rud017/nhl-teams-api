@@ -117,7 +117,7 @@ const teams = {
         'division': 'Central Division',
         'arenaName': 'United Center'
     },
-    'avalance': {
+    'avalanche': {
         'name': 'Colorado Avalanche',
         'location': 'Denver, CO',
         'division': 'Central Division',
@@ -153,6 +153,56 @@ const teams = {
         'division': 'Central Division',
         'arenaName': 'Canada Life Centre'
     },
+    //Pacific Division
+    'ducks': {
+        'name': 'Anaheim Ducks',
+        'location': 'Anaheim, CA',
+        'division': 'Pacific Division',
+        'arenaName': 'Honda Center'
+    },
+    'flames': {
+        'name': 'Calgary Flames',
+        'location': 'Calgary, AB',
+        'division': 'Pacific Division',
+        'arenaName': 'Scotiabank Saddledome'
+    },
+    'oilers': {
+        'name': 'Edmonton Oilers',
+        'location': 'Edmonton, AB',
+        'division': 'Pacific Division',
+        'arenaName': 'Rogers Place'
+    },
+    'kings': {
+        'name': 'Los Angeles Kings',
+        'location': 'Los Angeles, CA',
+        'division': 'Pacific Division',
+        'arenaName': 'Crypto.com Arena'
+    },
+    'sharks': {
+        'name': 'San Jose Sharks',
+        'location': 'San Jose, CA',
+        'division': 'Pacific Division',
+        'arenaName': 'SAP Center'
+    },
+    'kraken': {
+        'name': 'Seattle Kraken',
+        'location': 'Seattle, WA',
+        'division': 'Pacific Division',
+        'arenaName': 'Climate Pledge Arena'
+    },
+    'canucks': {
+        'name': 'Vancouver Canucks',
+        'location': 'Vancouver, BC',
+        'division': 'Pacific Division',
+        'arenaName': 'Rogers Arena'
+    },
+    'golden knights': {
+        'name': 'Vegas Golden Knights',
+        'location': 'Paradise, NV',
+        'division': 'Pacific Division',
+        'arenaName': 'T-Mobile Arena'
+    },
+    //Unknown
     'unknown': {
         'name': 'unknown',
         'location': 'unknown',
